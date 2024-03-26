@@ -93,6 +93,7 @@ on:
           - s905w-w95
           - s905w-x96-mini
           - s905w-x96w
+          - s905w-tx3-mini
           - s905x
           - s905x-b860h
           - s905x-nexbox-a95x
